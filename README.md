@@ -4,4 +4,4 @@
 
 ![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gbiel247&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbiel247&layout=compact)
