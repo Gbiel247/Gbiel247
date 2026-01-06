@@ -1,7 +1,30 @@
-### Olá! Eu sou o Gabriel Pessoli 🤙
+# Olá! Eu sou o Gabriel Pessoli 🤙
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/gabrielpessoli/](https://www.linkedin.com/in/gabrielpessoli/))
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabrielpessoli/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
-![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gbiel247&show_icons=true&theme=dracula)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbiel247&layout=compact)
+### 💻 Sobre mim
+
+- Graduando em análise e desenvolvimento de sistemas pelo IFSP.
+- Análista de sales ops na V4 Company.
+
+---
+
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gbiel247&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbiel247&layout=compact&langs_count=7&theme=dracula" />
+</div>
+
+---
+
+<div align="center">
+  <h3>🤝 Vamos nos conectar!</h3>
+  <p>Sinta-se à vontade para explorar meus repositórios e entrar em contato.</p>
+</div>
