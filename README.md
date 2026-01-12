@@ -11,12 +11,10 @@
 
   <br><br>
 
-  <div align="center">
-    <a href="https://www.linkedin.com/in/gabrielpessoli/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin" alt="LinkedIn" />
-    </a>
-    <a href="https://www.salesforce.com/trailblazer/gabrielpessoli" target="_blank">
-      <img src="https://img.shields.io/badge/Salesforce%20Trailhead-00A1E0?style=plastic&logo=salesforce&logoColor=white" alt="Trailhead" />
-    </a>
-  </div>
+  <a href="https://www.linkedin.com/in/gabrielpessoli/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/gabrielpessoli" target="_blank">
+    <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead" />
+  </a>
 </div>
