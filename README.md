@@ -1,6 +1,11 @@
 # Olá! Eu sou o Gabriel Pessoli 🤙
 
 <div align="center">
+  <img src="https://i.imgur.com/8cQqS7V.jpeg" alt="Banner Desenvolvedor e Analista de Dados" width="100%" style="border-radius: 10px;">
+</div>
+<br>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/gabrielpessoli/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -10,9 +15,8 @@
 
 ### 💻 Sobre mim
 
-- Graduando em análise e desenvolvimento de sistemas pelo IFSP.
-- Análista de sales ops na V4 Company.
-
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo **IFSP**.
+- 📈 Analista de Dados / Sales Ops na V4 Company.
 ---
 
 ### 📊 Minhas Estatísticas
