@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Gabriel Pessoli! 👋</h1>
-  <p>Estudante de Análise e Desenvolvimento de Sistemas pelo IFSP | Analista de Dados</p>
+  <p>Analista de Dados | Estudante de ADS no IFSP</p>
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -17,4 +17,5 @@
   <a href="https://www.salesforce.com/trailblazer/gabrielpessoli" target="_blank">
     <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead" />
   </a>
+</div>
 </div>
