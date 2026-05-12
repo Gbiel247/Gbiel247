@@ -23,6 +23,13 @@
 
 Analista de Dados, graduando em Análise e Desenvolvimento de Sistemas pelo IFSP, e um verdadeiro entusiasta por tudo que envolva raciocínio lógico e conhecimentos aleatórios sobre assuntos diversos.
 
+## Projetos
+
+### 📊 [Tratamento de dados do INEP]
+* **O Desafio:** Processar e limpar as bases de microdados do ENEM (2018 a 2021), lidando com um volume massivo de aproximadamente 11GB em arquivos CSV, para viabilizar o consumo e a criação de análises descritivas no Power BI
+* **A Solução:** Utilizando um script em Python e a documentação oficial do INEP, identifiquei e corrigi incongruências na estrutura original, gerando uma amostra aleatória estatisticamente válida e leve o suficiente para ser consumida pelo Power BI sem gargalos de performance.
+* **Ferramentas:** `Python (Pandas)'  
+* **Acesse o repositório ➡️** (https://github.com/Gbiel247/Analise_Pandemia)
 
 
 <div align="center">
