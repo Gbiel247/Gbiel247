@@ -21,7 +21,9 @@
 
 ---
 
-Sou Analista de Dados e estou cursando Análise e Desenvolvimento de Sistemas no IFSP.
+Analista de Dados, graduando em Análise e Desenvolvimento de Sistemas pelo IFSP, e um verdadeiro entusiasta por tudo que envolva raciocínio lógico e conhecimentos aleatórios sobre assuntos diversos.
+
+
 
 <div align="center">
   <picture>
