@@ -1,9 +1,10 @@
 <div align="center">
   <h1>Olá, eu sou o Gabriel Pessoli! 👋</h1>
-  ## Analista de Dados | Estudante de ADS no IFSP
-  <p1>Analista de Dados, graduando em Análise e Desenvolvimento de Sistemas pelo IFSP, e um verdadeiro entusiasta por tudo que envolva raciocínio lógico e conhecimentos aleatórios sobre assuntos diversos.
-</p1>
-
+  <h3>Analista de Dados | Estudante de ADS no IFSP</h3>
+  <p>Analista de Dados, graduando em Análise e Desenvolvimento de Sistemas pelo IFSP, entusiasta por conhecimentos aleatórios sobre assuntos diversos.</p>
+  
+  <br>
+  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
@@ -11,7 +12,7 @@
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce">
 
-  <br>
+  <br><br>
 
   <a href="https://www.linkedin.com/in/gabrielpessoli/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
