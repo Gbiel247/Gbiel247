@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Olá, eu sou o Gabriel Pessoli! 👋</h1>
-  <p>Analista de Dados | Estudante de ADS no IFSP</p>
+  ## Analista de Dados | Estudante de ADS no IFSP
+  <p1>Analista de Dados, graduando em Análise e Desenvolvimento de Sistemas pelo IFSP, e um verdadeiro entusiasta por tudo que envolva raciocínio lógico e conhecimentos aleatórios sobre assuntos diversos.
+</p1>
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -20,8 +22,6 @@
 </div>
 
 ---
-
-Analista de Dados, graduando em Análise e Desenvolvimento de Sistemas pelo IFSP, e um verdadeiro entusiasta por tudo que envolva raciocínio lógico e conhecimentos aleatórios sobre assuntos diversos.
 
 ## Projetos
 
