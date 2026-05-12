@@ -18,7 +18,11 @@
     <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead" />
   </a>
 </div>
-</div>
+
+---
+
+Sou Analista de Dados e estou cursando Análise e Desenvolvimento de Sistemas no IFSP.
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielpessoli/gabrielpessoli/output/github-contribution-grid-snake-dark.svg">
